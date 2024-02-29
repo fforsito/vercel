@@ -22,8 +22,8 @@
 19:00;Riyadh Open;1/4 de final masculino;Premier Padel;M+ Deportes 3 (65);
 19:30;Torneo de Santiago 2ª Ronda;JP. Varillas;S. Báez;ATP Tennis TV;
 19:30;WTA Torneo de Austin 2ª Ronda;D. Semenistaja;Xi. Wang;WTA TV;DAZN (Regístrate);
-20:00;Euroliga Liga Regular;ALBA Berlin;Maccabi Tel Aviv BC;M+ Deportes 4 (191);
-20:30;Euroliga Liga Regular;BC Partizan Beograd;Anadolu Efes Istanbul;M+ Deportes 3 (65);
+20:00;Euroliga Liga Regular;ALBA Berlin;Maccabi Tel Aviv BC;M+ Deportes 5 (192);
+20:30;Euroliga Liga Regular;BC Partizan Beograd;Anadolu Efes Istanbul;M+ Deportes 4 (191);
 20:30;Euroliga Liga Regular;Virtus Bologna;Valencia Basket;M+ Deportes (63);
 20:30;WTA Torneo de San Diego 2ª Ronda;A. Blinkova;D. Yastremska;WTA TV;DAZN (Regístrate);
 20:45;Euroliga Liga Regular;Real Madrid Baloncesto;Panathinaikos BC;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
