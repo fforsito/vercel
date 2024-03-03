@@ -22,8 +22,8 @@
 18:30;Liga Endesa Liga Regular;Dreamland Gran Canaria;Baskonia;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 21:00;La Liga EA Sports;Athletic Club;FC Barcelona;M+ LaLiga TV (M54-O110);M+ LaLiga TV UHD (M440 O111);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
 21:00;LaLiga Hypermotion;Leganés;Eibar;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);LaLiga TV M2;
-21:00;WTA Torneo de Austin;Final;WTA 250;WTA TV;DAZN (Regístrate);DAZN 2 (M71);
+21:00;WTA Torneo de Austin Final WTA 250;Xi. Wang;Y. Yuan;WTA TV;DAZN (Regístrate);DAZN 2 (M71);
 21:30;NASCAR Cup Series;Las Vegas Speedway;Carrera;DAZN (Regístrate);
 21:30;NBA Liga Regular;Boston Celtics;Golden State Warriors;ProSieben MAXX (M+ Astra);M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
 21:30;Partido de Exhibición Las Vegas (Estados Unidos);R. Nadal;C. Alcaraz;Netflix;
-23:00;Torneo de Santiago;Final;ATP 250;ATP Tennis TV;
+23:00;Torneo de Santiago Final ATP 250;A. Tabilo;S. Báez;ATP Tennis TV;
